@@ -190,7 +190,7 @@ def render_welcome_page():
     <div class="hero">
         <h1>Global Field Epidemiology Intelligence Platform</h1>
         <p>
-        Executive decision intelligence supporting global applied
+        This is an Executive Decision Intelligence Platform supporting global applied
         epidemiology workforce systems, credentialing readiness,
         and outbreak preparedness.
         </p>
