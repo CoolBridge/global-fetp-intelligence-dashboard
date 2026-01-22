@@ -12,7 +12,7 @@ from utils.data_loader import load_all_data
 
 st.set_page_config(
     page_title="Global Field Epidemiology Intelligence Platform",
-    layout="wide",
+    layout="wide" if st.session_state.get("is_desktop", True) else "centered",
     initial_sidebar_state="collapsed"
 )
 st.markdown("""
