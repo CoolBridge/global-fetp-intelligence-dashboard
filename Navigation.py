@@ -7,6 +7,39 @@ from utils.data_loader import load_all_data
 
 
 
+st.markdown("""
+<style>
+/* ===== MOBILE RESPONSIVENESS ===== */
+@media (max-width: 768px) {
+
+    .hero {
+        padding: 2rem 1.5rem !important;
+        border-radius: 16px !important;
+    }
+
+    .hero h1 {
+        font-size: 1.6rem !important;
+    }
+
+    .hero p {
+        font-size: 0.95rem !important;
+    }
+
+    .metric-card h2 {
+        font-size: 1.5rem !important;
+    }
+
+    .metric-card {
+        padding: 1rem !important;
+    }
+
+    /* Kill ticker on mobile */
+    .ticker-wrapper {
+        display: none !important;
+    }
+}
+</style>
+""", unsafe_allow_html=True)
 
 
 
