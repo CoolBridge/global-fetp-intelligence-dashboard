@@ -1,0 +1,8 @@
+network_id,name,level,established,headquarters,description,latitude,longitude
+TEPHINET,TEPHINET,Global,1997,Atlanta USA,Global network coordinating FETPs,33.753746,-84.38633
+CDC_FETP,US CDC FETP,Global,1980,Atlanta USA,Technical and financial support to FETPs,34.753746,-83.38633
+AFENET,AFENET,Regional,2005,Kampala Uganda,African Field Epidemiology Network,0.31628,32.58219
+EMPHNET,EMPHNET,Regional,2009,Amman Jordan,Eastern Mediterranean Public Health Network,31.95522,35.94503
+ASEAN_FETN,ASEAN+3 FETN,Regional,2011,Bangkok Thailand,ASEAN field epidemiology network,13.75633,100.50177
+ECDC_EPIET,ECDC Fellowship,Regional,1995,Stockholm Sweden,European intervention epidemiology fellowship,59.32938,18.06871
+CARPHA_FELTP,CARPHA FELTP,Regional,2014,Port of Spain Trinidad,Caribbean FELTP,10.66668,-61.51889

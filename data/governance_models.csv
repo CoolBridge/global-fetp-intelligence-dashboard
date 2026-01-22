@@ -1,0 +1,5 @@
+model_id,model_name,description,examples
+GOV_MINISTRY,Ministry-led,Credentialing housed in national MoH,"Nigeria, Kenya, Ghana"
+GOV_NETWORK,Network-led,Credentialing managed by regional/global network,"TEPHINET, AFENET"
+GOV_ACADEMIC,Academic-led,University-hosted credentialing,ECDC Fellowship
+GOV_HYBRID,Hybrid model,Joint governance across entities,FELTP programs

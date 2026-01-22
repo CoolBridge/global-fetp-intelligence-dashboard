@@ -1,0 +1,8 @@
+partner_id,name,type
+WHO,World Health Organization,Multilateral
+CDC,US Centers for Disease Control and Prevention,Government
+AFRICA_CDC,Africa CDC,Government
+BMGF,Bill & Melinda Gates Foundation,Foundation
+ROCKEFELLER,Rockefeller Foundation,Foundation
+USAID,USAID,Development Partner
+WORLD_BANK,World Bank,Development Partner

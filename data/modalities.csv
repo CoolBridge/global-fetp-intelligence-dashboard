@@ -1,0 +1,6 @@
+modality_id,name,duration_months,field_based_percent,description
+FRONTLINE,FETP-Frontline,3,60,Basic surveillance-focused training
+INTERMEDIATE,FETP-Intermediate,12,60,Applied epidemiology with field projects
+ADVANCED,FETP-Advanced,24,75,Full professional field epidemiology training
+FELTP,FELTP,24,75,Integrated epidemiology and laboratory training
+VET_FETP,FETP-Veterinary,24,70,One Health and veterinary epidemiology

@@ -1,0 +1,17 @@
+program_id,program_name,country,who_region,network,modality,discipline,established,host_institution,tephinet_member,accredited
+NGA_FETP,Nigeria Field Epidemiology Training Program,Nigeria,AFRO,AFENET,ADVANCED,Epi+Lab,2008,MOH_NGA,Yes,No
+KEN_FELTP,Kenya Field Epidemiology and Laboratory Training Program,Kenya,AFRO,AFENET,FELTP,Epi+Lab,2004,MOH_KEN,Yes,Yes
+GHA_GFELTP,Ghana Field Epidemiology and Laboratory Training Program,Ghana,AFRO,AFENET,FELTP,Epi+Lab,2007,MOH_GHA,Yes,Yes
+UGA_FETP,Uganda Public Health Fellowship Program,Uganda,AFRO,AFENET,ADVANCED,Epi,1994,MAKERERE,Yes,Yes
+ZAF_SAFETP,South Africa Field Epidemiology Training Program,South Africa,AFRO,AFENET,ADVANCED,Epi,2006,MOH_ZAF,Yes,Yes
+EGY_FETP,Egypt Field Epidemiology Training Program,Egypt,EMRO,EMPHNET,ADVANCED,Epi,1988,MOH_EGY,Yes,Yes
+PAK_FELTP,Pakistan FELTP,Pakistan,EMRO,EMPHNET,FELTP,Epi+Lab,2006,MOH_PAK,Yes,Yes
+JOR_FETP,Jordan Field Epidemiology Training Program,Jordan,EMRO,EMPHNET,ADVANCED,Epi,1998,MOH_JOR,Yes,Yes
+THA_FETP,Thailand Field Epidemiology Training Program,Thailand,SEARO,ASEAN_FETN,ADVANCED,Epi,1980,MOH_THA,Yes,Yes
+PHL_FETP,Philippines Field Epidemiology Training Program,Philippines,WPRO,ASEAN_FETN,ADVANCED,Epi,1994,MOH_PHL,Yes,Yes
+VNM_FETP,Vietnam Field Epidemiology Training Programme,Vietnam,WPRO,ASEAN_FETN,ADVANCED,Epi,2007,MOH_VNM,Yes,Yes
+USA_EIS,Epidemic Intelligence Service,United States,AMRO,CDC_FETP,ADVANCED,Epi,1951,CDC,No,Yes
+BRA_FETP,Brazil Field Epidemiology Training Program,Brazil,AMRO,TEPHINET,ADVANCED,Epi,2000,MOH_BRA,Yes,Yes
+PER_FETP,Peru Field Epidemiology Training Program,Peru,AMRO,TEPHINET,ADVANCED,Epi,2002,CAYETANO,Yes,Yes
+EU_EPIET,ECDC EPIET Fellowship,Multiple,EURO,ECDC_EPIET,ADVANCED,Epi,1995,ECDC,No,Yes
+CARPHA_FELTP,Caribbean Regional FELTP,Trinidad and Tobago,AMRO,CARPHA_FELTP,FELTP,Epi+Lab,2014,CARPHA,Yes,Yes
