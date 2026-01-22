@@ -188,7 +188,7 @@ def render_welcome_page():
     # ---------------- HERO ----------------
     st.markdown("""
     <div class="hero">
-        <h1>Global Field Epidemiology Intelligence Platform</h1>
+        <h1>Global Field Epidemiology Intelligence Platform(da.zx@outlook.com)</h1>
         <p>
         This is an Executive Decision Intelligence Platform supporting global applied
         epidemiology workforce systems, credentialing readiness,
